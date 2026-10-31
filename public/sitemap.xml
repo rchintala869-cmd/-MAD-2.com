@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <!-- Homepage -->
+  <url>
+    <loc>https://ais-dev-xkw4c5fidmdppccxobhuui-990166718886.asia-southeast1.run.app/</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- The Squad Characters Section -->
+  <url>
+    <loc>https://ais-dev-xkw4c5fidmdppccxobhuui-990166718886.asia-southeast1.run.app/#squad</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Bheems Ceciroleo Jukebox & Punches Section -->
+  <url>
+    <loc>https://ais-dev-xkw4c5fidmdppccxobhuui-990166718886.asia-southeast1.run.app/#jukebox</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Campus Personality Quiz -->
+  <url>
+    <loc>https://ais-dev-xkw4c5fidmdppccxobhuui-990166718886.asia-southeast1.run.app/#quiz</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- FDFS Theatrical Fan Pass Generator -->
+  <url>
+    <loc>https://ais-dev-xkw4c5fidmdppccxobhuui-990166718886.asia-southeast1.run.app/#ticket-pass</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- Film Dossier & Production Credits -->
+  <url>
+    <loc>https://ais-dev-xkw4c5fidmdppccxobhuui-990166718886.asia-southeast1.run.app/#dossier</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- College Fan Wall & Shoutouts -->
+  <url>
+    <loc>https://ais-dev-xkw4c5fidmdppccxobhuui-990166718886.asia-southeast1.run.app/#fan-wall</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.85</priority>
+  </url>
+</urlset>
